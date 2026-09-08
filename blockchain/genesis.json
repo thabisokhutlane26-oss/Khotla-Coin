@@ -1,0 +1,20 @@
+{
+  "chain_name": "Khotla Chain",
+  "network": "Khotla Testnet",
+  "chain_id": 7777,
+  "currency": {
+    "name": "Khotla Coin",
+    "symbol": "KHT",
+    "decimals": 18
+  },
+  "genesis": {
+    "block": 0,
+    "timestamp": "2026-09-08T00:00:00Z",
+    "message": "Khotla Chain Genesis Block",
+    "initial_supply": "1000000000"
+  },
+  "blockchain": {
+    "consensus": "Proof of Authority",
+    "block_time_seconds": 5
+  }
+}
